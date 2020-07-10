@@ -1,0 +1,5 @@
+# Excluding IDE files
+.idea/
+
+# Excluding Node modules
+node_modules/

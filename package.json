@@ -1,0 +1,14 @@
+{
+  "name": "example-workspace",
+  "version": "0.1.0",
+  "description": "Example TS workspace for Reddit",
+  "author": "Ryan Christian <rchristian@ryanchristian.dev>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "lerna": "^3.22.1"
+  },
+  "workspaces": [
+    "packages/**"
+  ]
+}

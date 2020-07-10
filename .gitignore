@@ -1,0 +1,10 @@
+# Excluding IDE files
+.idea/
+
+# Excluding Node modules
+node_modules/
+**/node_modules/
+
+# Excluding built files
+**/dist/
+

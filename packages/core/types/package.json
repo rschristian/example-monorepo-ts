@@ -1,0 +1,8 @@
+{
+  "name": "@core/types",
+  "version": "0.1.0",
+  "description": "Common types used across packages",
+  "types": "src/index.d.ts",
+  "license": "MIT",
+  "private": true
+}
